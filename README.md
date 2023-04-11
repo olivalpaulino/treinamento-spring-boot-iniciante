@@ -15,7 +15,7 @@ Abra o navegador em [http://localhost:3000](http://localhost:3000) para ver o re
 
 ### Para Baixar o Projeto para o Repositório Local:
 
-Através do Git, basta executar o comando: git clone **https://github.com/olivalpaulino/treinamento-spring-boot-iniciante.git** <br> Ou, pode baixar o arquivo .rar e extrair dentro do diretório/pasta desejado no seu computador.
+Através do Git, basta executar o comando: **git clone https://github.com/olivalpaulino/treinamento-spring-boot-iniciante.git** <br> Ou, pode baixar o arquivo .rar e extrair dentro do diretório/pasta desejado no seu computador.
 
 ### Para Baixar as Dependências:
 
